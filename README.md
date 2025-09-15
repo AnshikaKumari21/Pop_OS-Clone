@@ -1,12 +1,59 @@
-# React + Vite
+## 🚀 Pop_OS Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A frontend clone of the official Pop!_OS website, built using React, Tailwind CSS, and Vite.
+This project was created to practice modern frontend tools and replicate the clean, minimal UI of Pop!_OS.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🎨 Modern UI inspired by the Pop!_OS website
 
-## Expanding the ESLint configuration
+- ⚛️ Built with React (component-based structure)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎯 Reusable components (Header, Hero, Footer, Feature sections, etc.)
+
+- 📄 Multiple pages (Home, About, Contact, Blog, Products, Account, etc.)
+
+- 📱 Fully responsive design using Tailwind CSS
+
+- ⚡ Vite for fast development and hot reloading
+
+- 🌐 Routing with React Router (smooth page navigation)
+
+## 🛠️ Tech Stack
+
+- React – UI library
+
+- Tailwind CSS – Utility-first CSS framework
+
+- Vite – Build tool and dev server
+
+- React Router – For navigation
+
+## ⚡ Getting Started
+### 1️⃣ Clone the repo
+  ```bash
+ git clone https://github.com/AnshikaKumari21/Pop_OS-Clone.git 
+ cd Pop_OS-
+ ```
+
+### 2️⃣ Install dependencies
+```bash
+npm install
+```
+
+### 3️⃣ Run the project
+```bash
+npm run dev
+```
+
+
+- Now open http://localhost:5173
+ in your browser 🎉
+
+## 🙌 Acknowledgements
+
+- Inspired by the official Pop!_OS
+ website
+
+- Built for learning React + Tailwind CSS
+
