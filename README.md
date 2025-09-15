@@ -29,6 +29,22 @@ This project was created to practice modern frontend tools and replicate the cle
 
 - React Router – For navigation
 
+## Project Structure
+  ```bash
+  Pop_OS-Clone/
+│── public/            # Static assets (images, icons)
+│── src/
+│   ├── components/    # Reusable UI components
+│   ├── pages/         # Different pages (Home, About, Products, etc.)
+│   ├── App.jsx        # Main app file
+│   ├── index.css      # Global styles
+│   └── main.jsx       # Entry point
+│── package.json
+│── tailwind.config.js
+│── vite.config.js
+│── README.md
+```
+
 ## ⚡ Getting Started
 ### 1️⃣ Clone the repo
   ```bash
